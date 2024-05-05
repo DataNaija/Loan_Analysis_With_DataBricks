@@ -8,3 +8,6 @@ KPIs from the dataset:
 * Top occupation taking a loan
 * Gender category distribution of taking a loan
 *  Top age on which loan was taken
+
+
+![alt text](https://github.com/DataNaija/Loan_Analysis_With_DataBricks/blob/main/sc1.png)
